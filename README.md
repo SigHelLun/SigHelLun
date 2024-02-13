@@ -1,1 +1,1 @@
-[https://github-readme-stats.vercel.app/api?username=SigHelLun&show_icons=true&theme=transparent]
+[![SigHelLun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SigHelLun)](https://github.com/anuraghazra/github-readme-stats)
